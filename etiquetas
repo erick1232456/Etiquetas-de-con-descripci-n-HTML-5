@@ -1,0 +1,11 @@
+<section> </section>. Indica la sección de un documento HTML.
+
+<cite> </cite>. Esta etiqueta define el título de una obra.
+
+<table> </table>. Si quieres crear una tabla para tu página web, entonces necesitas utilizar estas etiquetas y dentro de ellas encerrar al resto de etiquetas necesarias.
+
+<colgroup> </colgroup>. Si quieres agrupar una serie de columnas se utiliza dicha etiqueta.
+
+<tbody> </tbody>. Etiquetas HTML5 para indicar los datos que corresponden a la tabla.
+
+<legend> </legend>. Etiqueta que se encarga de definir el título correspondiente a la etiqueta <fieldset>.
